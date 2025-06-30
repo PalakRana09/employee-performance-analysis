@@ -1,4 +1,4 @@
-### 🧠 Employee Data Analysis with Python
+## 🧠 Employee Data Analysis with Python
 This project performs data cleaning, feature engineering, and insightful analysis on employee performance data using Pandas, and visualizes trends using Matplotlib and Seaborn. The output is saved as an organized multi-sheet Excel report.
 
 ## ✅ Tasks Performed
